@@ -1,6 +1,6 @@
 # Modeling-the-Biodiversity-Enhancement-Value-of-Seagrass-Beds
 
-Code and model outputs supporting the publication McHenry, J. et al. (in review). Modeling the biodiversity enhancement value of seagrass beds. Diversity and Distributions.
+Code and model outputs supporting the publication McHenry, J. et al. 2021. Modeling the biodiversity enhancement value of seagrass beds. Diversity and Distributions.
 
 # Files 
 A. seagrass_stack.rds -> a raster stack of mapped predictions for the total cover and species composition of seagrass beds under current conditions (2017-2020) and at 2100 under two sea level rise senarios (i.e., +0.5m and +1.0m). 
