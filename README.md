@@ -17,9 +17,10 @@ final_models ->
 6. 'biodiversity_deepwater_nb_GAMM.rds' -> the highest performing generalized additive model of deep water faunal biodiversity, developed using the final shallow water faunal richness dataset.
 
 model_output ->
-1. seagrass_stack.rds -> a raster stack of mapped predictions for the total cover and species composition of seagrass beds under current conditions (2017-2020) and at 2100 under two sea level rise senarios (i.e., +0.5m and +1.0m). 
-2. faunal_biodiversity_stack.rds -> a raster stack of mapped predictions for the faunal biodiversity of shallow water and deep water seagrass beds under current conditions (2017-2020) and at 2100 under two sea level rise senarios (i.e., +0.5m and +1.0m).
-3. BEV_stack.rds -> a raster stack of mapped predictions for the biodiversity enhancement value (BEV) of shallow water and deep water seagrass beds for three scenarios 1) current BEV, 3) BEV with restoraiton, and 4) BEV with sea level rise.
+1. 'seagrass_stack.rds' -> a raster stack of mapped predictions for the total cover of seagrasses and probability of occurrence for dominant seagrass species across the Florida Gulf Coast under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m). 
+2. 'faunal_biodiversity_stack.rds' -> a raster stack of mapped predictions for the faunal biodiversity associated with seagrass beds (including potential restoration areas) in shallow and deep water of the Florida Gulf Coast under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m).
+3. 'BEV_stack.rds'-> a raster stack of mapped predictions for the biodiversity enhancement value (BEV) of suitable seagrass beds (including potential restoration areas) in shallow and deep water of the Florida Gulf Coast under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m).
+4. 'management_stack.rds' -> a raster stack of containing maps showing suitable areas for seagrass beds and potential restoration areas under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m)
 
 scripts -> 
 1. TBD
