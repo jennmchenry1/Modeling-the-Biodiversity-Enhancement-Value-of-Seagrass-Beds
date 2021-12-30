@@ -22,8 +22,4 @@ model_output ->
 3. 'BEV_stack.rds'-> a raster stack of mapped predictions for the biodiversity enhancement value (BEV) of suitable seagrass beds (including potential restoration areas) in shallow and deep water of the Florida Gulf Coast under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m).
 4. 'management_stack.rds' -> a raster stack of containing maps showing suitable areas for seagrass beds and potential restoration areas under current conditions (2017-2020) and at 2100 under two sea level rise scenarios (i.e., +0.5m and +1.0m)
 
-scripts -> 
-1. TBD
-2. TBD
-3. TBD
 
